@@ -1,0 +1,23 @@
+1. Fill-in-the-blanks
+Enter one or more words to complete the sentence.
+
+When using model.predict, you may get an answer close to, but not exactly what you expect. You can attribute that to neural networks generally dealing in approximations.
+
+2. Match the following parameters and layers with their respective descriptions.
+Each answer only matches one item.
+
+Sequential – Defines the order of layers within a neural network
+Flatten – Turns a multidimensional vector into a one-dimensional vector
+Dense – Adds a densely connected layer of neurons
+Activation function – Tells a layer of neurons what to do
+ReLU – If X>0 returns X, else returns 0
+Softmax – Takes a set of values and helps you pick the biggest one
+
+3. Fill-in-the-blanks
+Enter one or more words to complete the sentence.
+
+Pooling reduces the overall amount of information in an image while maintaining the detected features as present.
+
+4. Overfitting occurs as a result of a neural network trained with ___ .
+
+Answer. limited data
